@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<p align="left">
-<img src="https://support.apple.com/kb/SP779?locale=zh_CN" alt="iPhone Xs"/>
-</p>
+
+
+https://img.shields.io/badge/-iPhone%20Xs-lightgrey  https://img.shields.io/badge/-iPhone%206s-lightgrey
+
 
 
 <!---
