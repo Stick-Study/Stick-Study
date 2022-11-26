@@ -6,7 +6,9 @@
 
 
 
-https://img.shields.io/badge/-iPhone%20Xs-lightgrey  https://img.shields.io/badge/-iPhone%206s-lightgrey
+```
+![](https://img.shields.io/badge/-iPhone%20Xs-lightgrey)  ![](https://img.shields.io/badge/-iPhone%206s-lightgrey)
+```
 
 
 
