@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuxuan(杆杆只爱学习),a senior hige student in HeiLongJiang Province.
+- 👋 Hi, I’m Yuxuan(杆杆只爱学习),a senior high student in HeiLongJiang Province.
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fu-Yuxuan-hub)
 
