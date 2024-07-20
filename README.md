@@ -6,7 +6,3 @@
 
 [![Telegram](https://img.shields.io/badge/杆杆只爱学习-0088CC???style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Fu_Yuxuan)
 
-**Devices**
-
-![](https://img.shields.io/badge/-Hackintosh-lightgrey)                      
-![](https://img.shields.io/badge/-iPhone%20Xs-lightgrey)  ![](https://img.shields.io/badge/-iPhone%206s-lightgrey)
