@@ -9,3 +9,5 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Stick-Study/Universal-EFI-for-Intel-Hybrid-Architecture&type=Date)](https://star-history.com/#Stick-Study/Universal-EFI-for-Intel-Hybrid-Architecture&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Stick-Study/ASUS-TUF-GAMING-B460M-PLUS-HACKINTOSH&type=Date)](https://star-history.com/#Stick-Study/ASUS-TUF-GAMING-B460M-PLUS-HACKINTOSH&Date)
