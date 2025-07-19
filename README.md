@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuxuan(杆杆只爱学习),a senior high student.
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fu-Yuxuan-hub)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stick-Study)
 
 **Contact information**
 
@@ -8,4 +8,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Fu-Yuxuan-hub/Generic-EFI-for-H610-B660-Z690-B760-Z790&type=Date)](https://star-history.com/#Fu-Yuxuan-hub/Generic-EFI-for-H610-B660-Z690-B760-Z790&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Stick-Study/Universal-EFI-for-Intel-Hybrid-Architecture&type=Date)](https://star-history.com/#Stick-Study/Universal-EFI-for-Intel-Hybrid-Architecture&Date)
