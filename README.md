@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuxuan(杆杆只爱学习),a senior high student.
+- 👋 Hi, I’m Yuxuan(杆杆只爱学习).
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stick-Study)
 
